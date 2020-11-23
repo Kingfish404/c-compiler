@@ -1,0 +1,10 @@
+# setting file
+.vscode
+.idea
+
+# build file
+cmake-build-debug
+CMakeLists.txt
+
+# temp file
+Workplace/*.cpp
