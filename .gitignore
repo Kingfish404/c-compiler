@@ -5,6 +5,12 @@
 # build file
 cmake-build-debug
 CMakeLists.txt
+CMakeLists.txt.user
 
 # temp file
+Workplace/*.c
 Workplace/*.cpp
+Workplace/*.h
+Workplace/*/*.c
+Workplace/*/*.cpp
+Workplace/*/*.h
