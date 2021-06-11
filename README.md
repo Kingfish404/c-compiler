@@ -9,8 +9,8 @@ This is my compiler project, derived from the course of compilation principles, 
 - src - 源代码    
 -- FrontEnd - 编译器后端    
 -- BackEnd - 编译器前端    
--- c-final.c - 一个可自举的简单c编译器
--- c-interperter.c - 来自于c4项目的参考源码
+-- c-final.c - 一个可自举的简单c编译器  
+-- c-interperter.c - 来自于c4项目的参考源码  
 - figure - 展示图片
 - workplace - 工作区，代码暂时不上传
 
