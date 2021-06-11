@@ -8,9 +8,13 @@ CMakeLists.txt
 CMakeLists.txt.user
 
 # temp file
+Workplace/*.txt
+Workplace/*.data
+Workplace/*.out
 Workplace/*.c
 Workplace/*.cpp
 Workplace/*.h
 Workplace/*/*.c
 Workplace/*/*.cpp
 Workplace/*/*.h
+Workplace/*/*.*
